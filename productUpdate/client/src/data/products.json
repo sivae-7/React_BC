@@ -1,0 +1,214 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "Ice Cream",
+        "name": "Vanilla Delight",
+        "flavours": ["Vanilla"],
+        "sizes": [
+          {"size": "50ml", "price": 1.5},
+          {"size": "100ml", "price": 2.5},
+          {"size": "500ml", "price": 5.0}
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Ice Cream",
+        "name": "Chocolate Heaven",
+        "flavours": ["Chocolate"],
+        "sizes": [
+          {"size": "50ml", "price": 1.7},
+          {"size": "100ml", "price": 2.8},
+          {"size": "500ml", "price": 5.5}
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Ice Cream",
+        "name": "Strawberry Bliss",
+        "flavours": ["Strawberry"],
+        "sizes": [
+          {"size": "50ml", "price": 1.6},
+          {"size": "100ml", "price": 2.6},
+          {"size": "500ml", "price": 5.2}
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Ice Cream Cake",
+        "name": "Choco Lava Cake",
+        "flavours": ["Chocolate", "Vanilla"],
+        "sizes": [
+          {"size": "1kg", "price": 12.0},
+          {"size": "2kg", "price": 22.0}
+        ]
+      },
+      {
+        "id": 5,
+        "category": "Ice Cream Cake",
+        "name": "Berry Blast Cake",
+        "flavours": ["Strawberry", "Blueberry"],
+        "sizes": [
+          {"size": "1kg", "price": 13.0},
+          {"size": "2kg", "price": 24.0}
+        ]
+      },
+      {
+        "id": 6,
+        "category": "Ice Cream Cake",
+        "name": "Mango Tango Cake",
+        "flavours": ["Mango", "Vanilla"],
+        "sizes": [
+          {"size": "1kg", "price": 12.5},
+          {"size": "2kg", "price": 23.0}
+        ]
+      },
+      {
+        "id": 7,
+        "category": "Shakes",
+        "name": "Chocolate Shake",
+        "flavours": ["Chocolate"],
+        "sizes": [
+          {"size": "250ml", "price": 3.0},
+          {"size": "500ml", "price": 5.0}
+        ]
+      },
+      {
+        "id": 8,
+        "category": "Shakes",
+        "name": "Vanilla Shake",
+        "flavours": ["Vanilla"],
+        "sizes": [
+          {"size": "250ml", "price": 2.8},
+          {"size": "500ml", "price": 4.8}
+        ]
+      },
+      {
+        "id": 9,
+        "category": "Shakes",
+        "name": "Strawberry Shake",
+        "flavours": ["Strawberry"],
+        "sizes": [
+          {"size": "250ml", "price": 3.2},
+          {"size": "500ml", "price": 5.2}
+        ]
+      },
+      {
+        "id": 10,
+        "category": "Shakes",
+        "name": "Mango Shake",
+        "flavours": ["Mango"],
+        "sizes": [
+          {"size": "250ml", "price": 3.0},
+          {"size": "500ml", "price": 5.0}
+        ]
+      },
+      {
+        "id": 11,
+        "category": "Ice Cream Cone",
+        "name": "Vanilla Cone",
+        "flavours": ["Vanilla"],
+        "sizes": [
+          {"size": "Small", "price": 1.2},
+          {"size": "Medium", "price": 2.0},
+          {"size": "Large", "price": 2.8}
+        ]
+      },
+      {
+        "id": 12,
+        "category": "Ice Cream Cone",
+        "name": "Chocolate Cone",
+        "flavours": ["Chocolate"],
+        "sizes": [
+          {"size": "Small", "price": 1.5},
+          {"size": "Medium", "price": 2.2},
+          {"size": "Large", "price": 3.0}
+        ]
+      },
+      {
+        "id": 13,
+        "category": "Ice Cream Cone",
+        "name": "Strawberry Cone",
+        "flavours": ["Strawberry"],
+        "sizes": [
+          {"size": "Small", "price": 1.3},
+          {"size": "Medium", "price": 2.1},
+          {"size": "Large", "price": 2.9}
+        ]
+      },
+      {
+        "id": 14,
+        "category": "Ice Cream Bar",
+        "name": "Choco Bar",
+        "flavours": ["Chocolate"],
+        "sizes": [
+          {"size": "80ml", "price": 2.0},
+          {"size": "100ml", "price": 2.5}
+        ]
+      },
+      {
+        "id": 15,
+        "category": "Ice Cream Bar",
+        "name": "Vanilla Bar",
+        "flavours": ["Vanilla"],
+        "sizes": [
+          {"size": "80ml", "price": 1.8},
+          {"size": "100ml", "price": 2.3}
+        ]
+      },
+      {
+        "id": 16,
+        "category": "Ice Cream Bar",
+        "name": "Mango Bar",
+        "flavours": ["Mango"],
+        "sizes": [
+          {"size": "80ml", "price": 2.2},
+          {"size": "100ml", "price": 2.7}
+        ]
+      },
+      {
+        "id": 17,
+        "category": "Ice Cream",
+        "name": "Mint Chocolate Chip",
+        "flavours": ["Mint", "Chocolate"],
+        "sizes": [
+          {"size": "50ml", "price": 1.8},
+          {"size": "100ml", "price": 3.0},
+          {"size": "500ml", "price": 5.8}
+        ]
+      },
+      {
+        "id": 18,
+        "category": "Ice Cream",
+        "name": "Cookies and Cream",
+        "flavours": ["Cookies", "Cream"],
+        "sizes": [
+          {"size": "50ml", "price": 1.9},
+          {"size": "100ml", "price": 3.2},
+          {"size": "500ml", "price": 6.0}
+        ]
+      },
+      {
+        "id": 19,
+        "category": "Ice Cream",
+        "name": "Caramel Swirl",
+        "flavours": ["Caramel"],
+        "sizes": [
+          {"size": "50ml", "price": 2.0},
+          {"size": "100ml", "price": 3.3},
+          {"size": "500ml", "price": 6.2}
+        ]
+      },
+      {
+        "id": 20,
+        "category": "Ice Cream Cake",
+        "name": "Red Velvet Cake",
+        "flavours": ["Red Velvet", "Cream Cheese"],
+        "sizes": [
+          {"size": "1kg", "price": 15.0},
+          {"size": "2kg", "price": 27.0}
+        ]
+      }
+    ]
+  }
+  
