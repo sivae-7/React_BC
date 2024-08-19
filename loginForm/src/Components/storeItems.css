@@ -1,0 +1,37 @@
+.items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 10rem;
+  width: 15rem;
+  gap: 1rem;
+  background-color: rgb(206, 169, 239);
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.property1,
+.property2 {
+  color: rgb(97, 3, 102);
+  font-size: 1rem;
+  text-decoration: none;
+  margin: 10px;
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 5px;
+  background-color: bisque;
+}
+
+p {
+  text-align: center;
+}
+
+.property2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.property2 .p {
+  margin: 0;
+}

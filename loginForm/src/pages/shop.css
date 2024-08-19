@@ -1,0 +1,7 @@
+.itemContainer {
+  display: grid;
+  max-width: 100%;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 3rem;
+  padding: 30px;
+}
